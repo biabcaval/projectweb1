@@ -24,8 +24,32 @@ h3{
   color: #11999E;
 }
 
+hr{
+    border-style: dotted;
+    width: 3%;
+    border-width: 0.5rem;
+    border-bottom: 0;
+    border-color: grey;
+    margin-bottom: 80px;
+  
+/* 16px = 1rem*/
+}
+
+
+
+
+
+.pfp{
+  width: 12%;
+  padding-top: 50px;
+}
+
 .pro{
   text-decoration: underline;
+}
+
+.p1{
+  padding-bottom: 6%;
 }
 
 a{
@@ -38,6 +62,8 @@ a{
 }
 /* é necessário que o pai dos elementos seja relative, se n eles iram se referir ao body */
 .middle-container{margin: 0 auto;
+  width: 100%;
+              
                 }
 
 .bottom-container{margin: 0 auto;
@@ -54,4 +80,23 @@ a{
         right:500px;
         top: 50px;
 
+}
+
+.skill1{
+  margin-right: 30%;
+  text-align: left;
+}
+
+
+.python{
+  margin-left: 20%;
+  float: left;
+  width: 10%;
+}
+
+.webdev{
+  margin-right: 20%;
+  float: right;
+  width: 10%;
+  
 }
