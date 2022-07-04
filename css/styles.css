@@ -87,16 +87,27 @@ a{
   text-align: left;
 }
 
+.skill2{
+  margin-right: 30%;
+  text-align: left;
+  margin-left: 20%;
 
+}
 .python{
   margin-left: 20%;
+  margin-right: 3%;
   float: left;
   width: 10%;
 }
 
 .webdev{
-  margin-right: 20%;
+  margin-right: 35%;
+  margin-left: 3%;
   float: right;
   width: 10%;
   
+}
+
+.skill-row1{
+  margin-bottom: 10%;
 }
