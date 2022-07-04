@@ -90,7 +90,7 @@ a{
 }
 
 .skill2{
-  margin-right: 30%;
+  
   text-align: left;
   margin-left: 20%;
 
@@ -103,16 +103,20 @@ a{
 }
 
 .webdev{
-  margin-right: 35%;
-  margin-left: 3%;
+  margin-right: 40%;
+  margin-left:0;
   float: right;
-  width: 10%;
+  width: 12%;
   
 }
 
 .skill-row1{
   margin-bottom: 10%;
   margin-top: 7%
+}
+.skill-row2{
+  margin-left: 10%;
+
 }
 
 .contact-me{
