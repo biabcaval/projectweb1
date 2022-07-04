@@ -22,21 +22,24 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  font-weight: bold;
 }
 
 hr{
     border-style: dotted;
-    width: 3%;
+    width: 4%;
     border-width: 0.5rem;
     border-bottom: 0;
     border-color: grey;
-    margin-bottom: 80px;
+    margin-bottom: 6rem;
   
 /* 16px = 1rem*/
 }
 
+.hr2{
+  margin-top: 10%;
 
-
+}
 
 
 .pfp{
@@ -110,4 +113,5 @@ a{
 
 .skill-row1{
   margin-bottom: 10%;
+  margin-top: 7%
 }
